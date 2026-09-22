@@ -56,9 +56,7 @@ The dataset contains **1,500 sales records with 27 attributes** related to order
 * City
 * Payment Method
 * Delivery Status
-* Delivery Time
 * Discount
-* Rating
 
 ---
 
